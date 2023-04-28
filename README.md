@@ -1,2 +1,1 @@
-# test
-테스트 레파지토리, 삭제될 예정
+# githubtestrepo
